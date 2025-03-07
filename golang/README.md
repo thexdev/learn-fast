@@ -21,10 +21,10 @@
 - [x] Pointers
 - [x] Strings and Runes
 - [x] Structs
-- [ ] Methods
-- [ ] Interfaces
-- [ ] Enums
-- [ ] Struct Embedding
+- [x] Methods
+- [x] Interfaces
+- [x] Enums
+- [x] Struct Embedding
 - [ ] Generics
 - [ ] Range over Iterators
 - [ ] Errors
