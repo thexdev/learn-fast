@@ -20,7 +20,7 @@
 - [x] Range over Built-in Types
 - [x] Pointers
 - [x] Strings and Runes
-- [ ] Structs
+- [x] Structs
 - [ ] Methods
 - [ ] Interfaces
 - [ ] Enums
