@@ -25,17 +25,17 @@
 - [x] Interfaces
 - [x] Enums
 - [x] Struct Embedding
-- [ ] Generics
-- [ ] Range over Iterators
-- [ ] Errors
-- [ ] Custom Errors
-- [ ] Goroutines
-- [ ] Channels
-- [ ] Channel Buffering
-- [ ] Channel Synchronization
-- [ ] Channel Directions
-- [ ] Select
-- [ ] Timeouts
+- [x] Generics
+- [x] Range over Iterators
+- [x] Errors
+- [x] Custom Errors
+- [x] Goroutines
+- [x] Channels
+- [x] Channel Buffering
+- [x] Channel Synchronization
+- [x] Channel Directions
+- [x] Select
+- [x] Timeouts
 - [ ] Non-Blocking Channel Operations
 - [ ] Closing Channels
 - [ ] Range over Channels
