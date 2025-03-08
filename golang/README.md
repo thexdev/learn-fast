@@ -36,14 +36,14 @@
 - [x] Channel Directions
 - [x] Select
 - [x] Timeouts
-- [ ] Non-Blocking Channel Operations
-- [ ] Closing Channels
-- [ ] Range over Channels
-- [ ] Timers
-- [ ] Tickers
-- [ ] Worker Pools
-- [ ] WaitGroups
-- [ ] Rate Limiting
+- [x] Non-Blocking Channel Operations
+- [x] Closing Channels
+- [x] Range over Channels
+- [x] Timers
+- [x] Tickers
+- [x] Worker Pools
+- [x] WaitGroups
+- [x] Rate Limiting
 - [ ] Atomic Counters
 - [ ] Mutexes
 - [ ] Stateful Goroutines
